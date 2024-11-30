@@ -22,11 +22,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Create an Azure Virtual Machine (VM): Set up with Remote Desktop access.
+- Install IIS (Internet Information Services) with CGI Enabled: Enable World Wide Web Services -> Application Development Features -> [X] CGI.
+- PHP Installation and Configuration: Create the directory C:\PHP. Unzip and configure PHP 7.3.8 in C:\PHP. Install and register PHP Manager for IIS and enable extensions such as php_imap.dll, php_intl.dll, and php_opcache.dll.
+- MySQL Database Setup: Install MySQL 5.5.62. Set up the database with a username and password.
+- osTicket Installation Files: Download and unzip the osTicket-Installation-Files.zip.
 
 <h2>Installation Steps</h2>
 
