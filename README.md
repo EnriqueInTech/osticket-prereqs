@@ -40,7 +40,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <p>
   <strong>1. Create a Virtual Machine:</strong><br>
-  - Start by visiting Azure Portal.<br>
+  - Start by visiting Azure Portal: https://portal.azure.com<br>
   - Set up a new virtual machine with Windows 10 Pro (version 22H2). Be sure to choose a VM size with at least 2 vCPUs and 16 GB of RAM to meet the requirements.
 </p>
 
