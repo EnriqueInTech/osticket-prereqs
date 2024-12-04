@@ -64,14 +64,26 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 
 <p>
+  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
   <strong>4. Enable IIS and Required Features:</strong><br>
   - In the Windows Features menu, navigate to World Wide Web Services.<br>
   - Under Application Development Features, check the boxes for CGI and Common HTTP Features.
 </p>
 
 <p>
+  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
   <strong>5. Verify IIS Installation:</strong><br>
   - To confirm IIS is properly installed, open your web browser and type 127.0.0.1 in the address bar. You should see the default IIS landing page.
+</p>
+
+<p>
+  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
@@ -91,9 +103,17 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 
 <p>
+  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
   <strong>8. Set Up PHP:</strong><br>
   - Create a folder named PHP in the *C:* drive.<br>
   - From the installation files, download PHP 7.3.8 (look for php-7.3.8-nts-Win32-VC15-x866.zip), and extract the contents into C:\PHP.
+</p>
+
+<p>
+  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <br>
@@ -102,6 +122,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   <strong>9. Install Visual C++ Redistributable:</strong><br>
   - After extracting the PHP files into the C:\PHP folder, download VC_redist.x86.exe from the installation files.<br>
   - Run the installer and follow the setup wizard to complete the installation of the Visual C++ Redistributable.
+</p>
+
+<p>
+  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
@@ -121,11 +145,19 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 
 <p>
+  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
   <strong>12. Register PHP with IIS:</strong><br>
   - In IIS Manager, locate and click on PHP Manager.<br>
   - Select Register new PHP version.<br>
   - When prompted, provide the path to the PHP executable file (php-cgi.exe). Navigate to C:\PHP, and select the php-cgi.exe file.<br>
   - Finally, restart the IIS server to apply the changes.
+</p>
+
+<p>
+  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <br>
