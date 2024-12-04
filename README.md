@@ -51,10 +51,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   - Use the Remote Desktop Connection app to connect to your VM by entering the public IP address.
 </p>
 
-<p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-
 <br>
 
 <p>
