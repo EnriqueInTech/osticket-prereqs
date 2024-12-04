@@ -171,6 +171,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 
 <p>
+  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
   <strong>14. Access osTicket through IIS:</strong><br>
   - In IIS Manager, navigate to Sites -> Default -> osTicket.<br>
   - On the right, click *Browse :80* to access osTicket in your web browser.<br>
@@ -202,6 +206,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
     5. Click Apply and then OK.
 </p>
 
+<p>
+  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
 <br>
 
 <p>
@@ -227,6 +235,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   - To complete the setup, we need to delete the setup folder:<br>
   - Navigate to C:\inetpub\wwwroot\osTicket\setup and delete the setup folder. Be sure to delete only this folder and not any other files or directories.<br>
   - After the cleanup, set the permissions of the ost-config.php file back to Read-only.
+</p>
+
+<p>
+  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <br>
