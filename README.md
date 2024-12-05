@@ -88,7 +88,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <p>
   <strong>6. Install PHP Manager for IIS:</strong><br>
-  - Download PHP Manager for IIS from the installation files (look for PHPManagerForIIS_V1.5.0.msi).<br>
+  - Download PHP Manager from the installation files (PHPManagerForIIS_V1.5.0.msi).<br>
   - Run the installer and follow the setup wizard to complete the installation.
 </p>
 
@@ -98,7 +98,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <p>
   <strong>7. Install the Rewrite Module:</strong><br>
-  - Download the Rewrite Module from the installation files (look for rewrite_amd64_en-US.msi).<br>
+  - Download the Rewrite Module from the installation files (rewrite_amd64_en-US.msi).<br>
   - Run the installer to complete the installation.
 </p>
 
@@ -109,7 +109,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
   <strong>8. Set Up PHP:</strong><br>
   - Create a folder named PHP in the *C:* drive.<br>
-  - From the installation files, download PHP 7.3.8 (look for php-7.3.8-nts-Win32-VC15-x866.zip), and extract the contents into C:\PHP.
+  - From the installation files, download PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x866.zip), and extract the contents into C:\PHP.
 </p>
 
 <p>
