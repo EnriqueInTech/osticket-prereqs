@@ -132,7 +132,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   <strong>10. Install the MySQL database:</strong><br>
   - Download MySQL 5.5.62 (mysql-5.5.62-win32.msi) from the installation files.<br>
   - In the setup wizard, select Typical as the Setup Type and select Launch the MySQL Instance Configuration Wizard after installation to finish.<br>
-  - Choose Standard Configuration and set the root password to Password1.
+  - Choose Standard Configuration and set a root password.
 </p>
 
 <p>
