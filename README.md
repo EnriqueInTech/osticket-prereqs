@@ -109,11 +109,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
   <strong>8. Set Up PHP:</strong><br>
   - Create a folder named PHP in the *C:* drive.<br>
-  - From the installation files, download PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x866.zip), and extract the contents into C:\PHP.
+  - Extract PHP 7.3.8 from the installation files (php-7.3.8-nts-Win32-VC15-x866.zip) and select C:\PHP folder as the destination.
 </p>
 
 <p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/XyuQhzY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <br>
