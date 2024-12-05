@@ -87,7 +87,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 
 <p>
-  <strong>6. Install PHP Manager:</strong><br>
+  <strong>6. Install the PHP Manager:</strong><br>
   - Download the PHP Manager from the installation files (PHPManagerForIIS_V1.5.0.msi).<br>
   - Run the installer and follow the setup wizard to complete the installation.
 </p>
