@@ -178,14 +178,14 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   <strong>14. Access osTicket through IIS:</strong><br>
   - In IIS Manager, navigate to Sites -> Default -> osTicket.<br>
   - On the right, click *Browse :80* to access osTicket in your web browser.<br>
-  - <strong>Enable Required PHP Extensions:</strong><br>
-    1. Go back to IIS Manager and navigate to Sites -> Default -> osTicket.<br>
-    2. Double-click on PHP Manager.<br>
-    3. Select Enable or Disable an Extension.<br>
-    Enable the following extensions:<br>
-    1. php_imap.dll<br>
-    2. php_intl.dll<br>
-    3. php_opcache.dll
+    <strong>Enable Required PHP Extensions:</strong><br>
+    - Go back to IIS Manager and navigate to Sites -> Default -> osTicket.<br>
+    - Double-click on PHP Manager.<br>
+    - Select Enable or Disable an Extension.<br>
+    <strong>Enable the following extensions:</strong><br>
+    - php_imap.dll<br>
+    - php_intl.dll<br>
+    - php_opcache.dll
 </p>
 
 <p>
@@ -198,7 +198,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   - Locate the file ost-sampleconfig.php and rename it to ost-config.php.<br>
   - After renaming the file, right-click on it and select Properties. In the Properties window, go to the Security tab and click on Advanced.<br>
   - Disable Inheritance by selecting Remove all inherited permissions from this object.<br>
-  - Next, we’ll add new permissions:<br>
+    <strong>Add new permissions:</strong><br>
     1. Click Add.<br>
     2. In the dialog box, click Select a principal.<br>
     3. Type Everyone in the box and click Check Names.<br>
