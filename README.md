@@ -250,11 +250,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   <strong>17. Create a New Database in HeidiSQL:</strong><br>
   - In HeidiSQL, right-click on Unnamed on the left panel, select Create New, and then choose Database.<br>
   - Name the new database osTicket.<br>
-  - Once the database is created, go back to the osTicket browser setup and enter osTicket as the database name under the MySQL Database section.<br>
-  <strong>Cleanup and Final Permissions:</strong><br>
-  - To complete the setup, we need to delete the setup folder:<br>
-  - Navigate to C:\inetpub\wwwroot\osTicket\setup and delete the setup folder. Be sure to delete only this folder and not any other files or directories.<br>
-  - After the cleanup, set the permissions of the ost-config.php file back to Read-only.
+  - Once the database is created, go back to the osTicket browser setup and enter osTicket as the database name under the MySQL Database section.
 </p>
 
 <p>
