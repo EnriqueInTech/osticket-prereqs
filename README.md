@@ -176,7 +176,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <p>
   <strong>14. Access osTicket through IIS:</strong><br>
-  - In IIS Manager, navigate to Sites -> Default -> osTicket.<br>
+  - In IIS Manager, navigate to Sites -> Default by clicking the drop-down arrows on the left.<br>
+  - Select the osTicket folder.
   - On the right, click *Browse :80* to access osTicket in your web browser.<br>
     <strong>Enable Required PHP Extensions:</strong><br>
     - Go back to IIS Manager and navigate to Sites -> Default -> osTicket.<br>
@@ -189,7 +190,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 
 <p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/F4CNh7Z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
