@@ -70,7 +70,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
   <strong>4. Enable IIS and Required Features:</strong><br>
   - In the Windows Features menu, navigate to World Wide Web Services.<br>
-  - Under Application Development Features, check the boxes for CGI and Common HTTP Features.
+  - Under Application Development Features, check the box for CGI.
 </p>
 
 <p>
