@@ -79,7 +79,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <p>
   <strong>5. Verify IIS Installation:</strong><br>
-  - To confirm IIS is properly installed, open your web browser and type 127.0.0.1 in the address bar. You should see the default IIS landing page.
+  - To confirm IIS is properly installed, open your web browser and type 127.0.0.1 in the address bar. You should see the default IIS landing page. This will confirm that the VM is now technically a web server.
 </p>
 
 <p>
@@ -93,7 +93,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 
 <p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/JMqjfT3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
