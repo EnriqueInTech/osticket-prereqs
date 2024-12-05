@@ -233,9 +233,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   - Fill out the required fields on the page, but leave the Database Settings section blank for now; we'll address that shortly. Do not click Install Now yet.<br>
   - Download and install HeidiSQL from the Installation Files.<br>
   - Once HeidiSQL is installed, open the program and create a new session.<br>
-  - Make sure the Username is set to root and the Password is root.<br>
-  - Click Unnamed at the top left and proceed to create a new database with the name osTicket.<br>
-  - After establishing the connection in HeidiSQL, return to the browser to complete the osTicket setup. Under the Database Settings section, enter osTicket for MySQL Database. Enter root as the username and root as the password.
+  - Make sure the Username is set to root and the Password is root.
 </p>
 
 <p>
