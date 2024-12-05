@@ -153,7 +153,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   - In IIS Manager, locate and click on PHP Manager.<br>
   - Select Register new PHP version.<br>
   - When prompted, provide the path to the PHP executable file (php-cgi.exe). Navigate to C:\PHP, and select the php-cgi.exe file.<br>
-  - Finally, restart the IIS server to apply the changes.
+  - Finally, restart the IIS server for the changes to take effect.
 </p>
 
 <p>
@@ -167,11 +167,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   - Download osTicket v1.15.8 from the Installation Files folder.<br>
   - Extract the contents and copy the upload folder to C:\inetpub\wwwroot.<br>
   - Inside C:\inetpub\wwwroot, rename the upload folder to osTicket.<br>
-  - Reload IIS for the changes to take effect.
+  - Finally, restart the IIS server for the changes to take effect.
 </p>
 
 <p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/AiyOKaL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
