@@ -180,10 +180,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   - Select the osTicket folder.
   - On the right, click *Browse :80* to access osTicket in your web browser.<br>
     <strong>Enable Required PHP Extensions:</strong><br>
-    - Go back to IIS Manager and navigate to Sites -> Default -> osTicket.<br>
+    - Go back to IIS Manager and navigate to Sites -> Default -> osTicket once again.<br>
     - Double-click on PHP Manager.<br>
-    - Select Enable or Disable an Extension.<br>
-    <strong>Enable the following extensions:</strong><br>
+    - At bottom you'll see PHP Extensions. Select Enable or disable an Extension.<br>
+    <strong>Enable the following extensions in the disabled list:</strong><br>
     - php_imap.dll<br>
     - php_intl.dll<br>
     - php_opcache.dll
@@ -191,6 +191,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <p>
   <img src="https://i.imgur.com/F4CNh7Z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+  <img src="https://i.imgur.com/jspFy1N.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
