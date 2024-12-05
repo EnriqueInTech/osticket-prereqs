@@ -230,7 +230,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
   <strong>16. Complete osTicket Setup in the Browser:</strong><br>
   - In the browser, click Continue on the osTicket setup page.<br>
-  - Fill out the required fields on the page, but leave the Database Settings section blank for now; we'll address that shortly.<br>
+  - Fill out the required fields on the page, but leave the Database Settings section blank for now; we'll address that shortly. Do not click Install Now yet.<br>
   - Download and install HeidiSQL from the Installation Files.<br>
   - Once HeidiSQL is installed, open the program and create a new session.<br>
   - Make sure the Username is set to root and the Password is Password1.<br>
@@ -238,7 +238,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 
 <p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/NkxPGYo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<p>
+  <img src="https://i.imgur.com/NkxPGYo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
