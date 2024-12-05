@@ -141,11 +141,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <p>
   <strong>11. Open IIS Manager:</strong><br>
-  - After installing the necessary files, search for IIS in the Windows search bar and open Internet Information Services (IIS) Manager as an administrator. The program interface should appear like this.
+  - Open and run Internet Information Services (IIS) Manager as an administrator.
 </p>
 
 <p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/JsMMz8l.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
