@@ -202,13 +202,15 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   - Open File Explorer and navigate to the following directory: C:\inetpub\wwwroot\osTicket\include.<br>
   - Locate the file ost-sampleconfig.php and rename it to ost-config.php.<br>
   - After renaming the file, right-click on it and select Properties. In the Properties window, go to the Security tab and click on Advanced.<br>
-  - Disable Inheritance by selecting Remove all inherited permissions from this object.<br>
+  - Select Disable inheritance at the bottom.
+  - Select Remove all inherited permissions from this object.<br>
     <strong>Add new permissions:</strong><br>
     1. Click Add.<br>
-    2. In the dialog box, click Select a principal.<br>
+    2. Click Select a principal.<br>
     3. Type Everyone in the box and click Check Names.<br>
-    4. Make sure Full Control is selected, and all other checkboxes are ticked.<br>
-    5. Click Apply and then OK.
+    4. Click OK.<br>
+    5. Make sure Full Control is selected, and all other checkboxes are ticked.<br>
+    6. Click Apply and then OK.
 </p>
 
 <p>
