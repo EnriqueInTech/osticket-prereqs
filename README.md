@@ -119,9 +119,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br>
 
 <p>
-  <strong>9. Install Visual C++ Redistributable:</strong><br>
-  - After extracting the PHP files into the C:\PHP folder, download VC_redist.x86.exe from the installation files.<br>
-  - Run the installer and follow the setup wizard to complete the installation of the Visual C++ Redistributable.
+  <strong>9. Install the Visual C++ Redistributable:</strong><br>
+  - Download the VC_redist.x86.exe from the installation files.<br>
+  - Run the installer and follow the setup wizard to complete the installation.
 </p>
 
 <p>
