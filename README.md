@@ -247,10 +247,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 
 <p>
-  <img src="https://i.imgur.com/C1JDtwq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-
-<p>
   <strong>17. Create a New Database in HeidiSQL:</strong><br>
   - In HeidiSQL, right-click on Unnamed on the left panel, select Create New, and then choose Database.<br>
   - Name the new database osTicket.<br>
@@ -262,7 +258,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 
 <p>
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/C1JDtwq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <br>
